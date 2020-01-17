@@ -105,6 +105,7 @@ tryagain();
 void tryagain()
 {
 int cho;
+
 printf("\nTry again the IRCTC train ticket booking\n");
 do
 {
